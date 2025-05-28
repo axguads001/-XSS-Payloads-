@@ -1,0 +1,21 @@
+<b>Bold Injection 1</b>
+<i>Italic Injection 1</i>
+<u>Underline Injection 1</u>
+<h1>Heading Injection 1</h1>
+<p>Paragraph Injection 1</p>
+<a href="#">Link Injection 1</a>
+<img src="x" alt="Image Injection 1">
+<iframe src="about:blank" title="Iframe Injection 1"></iframe>
+<table><tr><td>Table Injection 1</td></tr></table>
+<form action="#"><input type="text" value="Form Injection 1"></form>
+<b>Bold Injection 2</b>
+<i>Italic Injection 2</i>
+<u>Underline Injection 2</u>
+<h1>Heading Injection 2</h1>
+<p>Paragraph Injection 2</p>
+<a href="#">Link Injection 2</a>
+<img src="x" alt="Image Injection 2">
+<iframe src="about:blank" title="Iframe Injection 2"></iframe>
+<table><tr><td>Table Injection 2</td></tr></table>
+<form action="#"><input type="text" value="Form Injection 2"></form>
+<!-- Continue this pattern up to 50 -->
