@@ -1,0 +1,36 @@
+<b>Bold Text 1</b>
+<i>Italic Text 1</i>
+<u>Underlined Text 1</u>
+<b><i>Bold Italic Text 1</i></b>
+<b><u>Bold Underlined Text 1</u></b>
+<i><u>Italic Underlined Text 1</u></i>
+<b><i><u>All Formats Text 1</u></i></b>
+<b>Bold Text 2</b>
+<i>Italic Text 2</i>
+<u>Underlined Text 2</u>
+<b><i>Bold Italic Text 2</i></b>
+<b><u>Bold Underlined Text 2</u></b>
+<i><u>Italic Underlined Text 2</u></i>
+<b><i><u>All Formats Text 2</u></i></b>
+<b>Bold Text 3</b>
+<i>Italic Text 3</i>
+<u>Underlined Text 3</u>
+<b><i>Bold Italic Text 3</i></b>
+<b><u>Bold Underlined Text 3</u></b>
+<i><u>Italic Underlined Text 3</u></i>
+<b><i><u>All Formats Text 3</u></i></b>
+<b>Bold Text 4</b>
+<i>Italic Text 4</i>
+<u>Underlined Text 4</u>
+<b><i>Bold Italic Text 4</i></b>
+<b><u>Bold Underlined Text 4</u></b>
+<i><u>Italic Underlined Text 4</u></i>
+<b><i><u>All Formats Text 4</u></i></b>
+<b>Bold Text 5</b>
+<i>Italic Text 5</i>
+<u>Underlined Text 5</u>
+<b><i>Bold Italic Text 5</i></b>
+<b><u>Bold Underlined Text 5</u></b>
+<i><u>Italic Underlined Text 5</u></i>
+<b><i><u>All Formats Text 5</u></i></b>
+<!-- Continue this pattern up to 50 -->
